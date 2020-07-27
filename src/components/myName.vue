@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>{{ name }}</h1>
+    <h1>Hi there, I am {{ name }}</h1>
   </div>
 </template>
 
@@ -20,6 +20,6 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1 {
-  font-size: 45px;
+  font-size: 36px;
 }
 </style>
